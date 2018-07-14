@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArmchairLeague", "ArmchairLeague\ArmchairLeague.csproj", "{9915BC57-7072-4D73-BA07-2F1CCBC524CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArmchairLeague.Tests", "ArmchairLeague.Tests\ArmchairLeague.Tests.csproj", "{D670E2CE-F6B4-4556-8F07-B4AE9EBCF39B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9915BC57-7072-4D73-BA07-2F1CCBC524CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9915BC57-7072-4D73-BA07-2F1CCBC524CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9915BC57-7072-4D73-BA07-2F1CCBC524CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9915BC57-7072-4D73-BA07-2F1CCBC524CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D670E2CE-F6B4-4556-8F07-B4AE9EBCF39B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D670E2CE-F6B4-4556-8F07-B4AE9EBCF39B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D670E2CE-F6B4-4556-8F07-B4AE9EBCF39B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D670E2CE-F6B4-4556-8F07-B4AE9EBCF39B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
